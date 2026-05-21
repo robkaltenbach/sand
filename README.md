@@ -12,7 +12,7 @@ A lightweight browser-based particle sandbox where simple rules create surprisin
 - Smooth interactive rendering
 - Experimental sandbox environment
 
-## Demo
+## Demos
 
 Open the included HTML file in any modern browser:
 
@@ -20,7 +20,11 @@ Open the included HTML file in any modern browser:
 Sand _standalone_.html
 ```
 
-Or drag the file directly into a browser window.
+Or 
+
+Try the sandbox here:
+
+👉 https://sand.xozy.app
 
 ## Controls
 
