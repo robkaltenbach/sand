@@ -24,7 +24,7 @@ Or
 
 Try the sandbox here:
 
-👉 https://sand.xozy.app
+https://sand.xozy.app
 
 ## Controls
 
